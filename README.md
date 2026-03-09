@@ -89,13 +89,12 @@ Step 1. Download the pre-trained model weight from [[BaiduPan](https://pan.baidu
 
 Step 2. Make sure the file structure is consistent with the following:
 ```
-
 clip_model/
 ├── RN101.pt
 └── ViT-B-32.pt
 ```
 
-Step 3. Run the following script to train CoA from scratch:
+Step 3. Run the following script to train BiLaLoRA from scratch:
 ```
 python Teacher.py
 python KD.py
@@ -126,7 +125,7 @@ python Eval.py
 If you find our paper and repo are helpful for your research, please consider citing:
 
 ```bibtex
-@inproceedings{zhang2026BiLaLoRA,
+@inproceedings{BiLaLoRA,
   title={Bilevel Layer-Positioning LoRA for Real Image Dehazing},
   author={Yan Zhang, Long Ma, Yuxin Feng, Zhe Huang, Fan Zhou, Zhuo Su},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
