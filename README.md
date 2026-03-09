@@ -61,7 +61,6 @@ pip install -r requirements.txt
 Step 1. Download the haze dataset from websites or papers.
 
 Step 2. Make sure the file structure is consistent with the following:
-
 ```
 dataset/
 ├── Synthetic_Data
