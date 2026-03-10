@@ -116,6 +116,10 @@ Step 3. Run the following script to test BiLaLoRA:
 python BiLaLoRA_Test.py
 ```
 
+## :clipboard: Acknowledgments
+We would like to extend our gratitude to the following implementations for their contributions to the development of BiLaLoRA:
+- [DEA-Net](https://github.com/cecret3350/DEA-Net.git) for providing the re-parameterization technique.
+
 ## :triangular_flag_on_post: Citation
 If you find our paper and repo are helpful for your research, please consider citing:
 
