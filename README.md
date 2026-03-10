@@ -3,16 +3,16 @@
 <h1>Bilevel Layer-Positioning LoRA for Real Image Dehazing</h1>
 
 <div>
-    Yan Zhang</a>&emsp;
-    Long Ma</a>&emsp;
-    Yuxin Feng</a>&emsp;
-    Zhe Huang</a>&emsp;
-    Fan Zhou</a>&emsp;
-    Zhuo Su</a>
+    <strong>Yan Zhang</a>&emsp;
+    <strong>Long Ma</a>&emsp;
+    <strong>Yuxin Feng</a>&emsp;
+    <strong>Zhe Huang</a>&emsp;
+    <strong>Fan Zhou</a>&emsp;
+    <strong>Zhuo Su</a>
 </div>
 
 <div>
-    :star: <strong>Accepted to CVPR 2026
+    :star: <strong>Accepted to CVPR 2026 :star:
 </div>
 
 <div>
