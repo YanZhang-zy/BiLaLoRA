@@ -17,6 +17,7 @@
 
 <div>
     <h4 align="center">
+        <a href="https://arxiv.org/abs/2603.10872" target='_blank'>[arXiv]</a> •
         <a href="https://drive.google.com/drive/folders/1qEmYEONhX8e0b7PLikKxMCKNu_j7pu6b?usp=sharing" target='_blank'>[GoogleDrive Weight]</a> •
         <a href="https://pan.baidu.com/s/1uFnB4ov9hiNSnRE8lFMdXw?pwd=0519" target='_blank'>[BaiduNetdisk Weight]</a> 
     </h4>
