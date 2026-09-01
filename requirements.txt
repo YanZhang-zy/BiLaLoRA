@@ -1,0 +1,15 @@
+# Install the PyTorch stack first as documented in README.md:
+# conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+
+einops==0.8.0
+ftfy==6.1.1
+ipython==8.18.1
+numpy==1.24.4
+opencv-contrib-python==4.6.0.66
+pandas==2.0.3
+Pillow==9.2.0
+PyYAML==6.0.1
+regex==2022.8.17
+setuptools==63.4.1
+tqdm==4.64.0
+git+https://github.com/openai/CLIP.git@d05afc436d78f1c48dc0dbf8e5980a9d471f35f6
